@@ -1,0 +1,67 @@
+.blog {
+  display: flex;
+  justify-content: center; }
+  .blog .container-blog {
+    width: 90%;
+    border-bottom: 1px solid lightgrey; }
+
+.breadcrumbs {
+  display: flex;
+  justify-content: center; }
+  .breadcrumbs .breadcrumb {
+    width: 90%;
+    margin-top: 10px; }
+
+.container-main {
+  display: flex;
+  justify-content: center; }
+  .container-main .main-text {
+    width: 90%; }
+    .container-main .main-text .text {
+      border-top: 1px solid lightgrey;
+      border-bottom: 1px solid lightgrey;
+      margin-top: 10px; }
+      .container-main .main-text .text p {
+        padding: 20px; }
+    .container-main .main-text .image {
+      border-bottom: 1px solid lightgrey; }
+      .container-main .main-text .image img {
+        width: 833px;
+        margin-top: 20px;
+        margin-bottom: 20px; }
+  .container-main .text-second {
+    border-bottom: 1px solid lightgrey; }
+    .container-main .text-second p {
+      margin-top: 10px; }
+  .container-main .comment-container {
+    margin-top: 20px;
+    border-bottom: 1px solid lightgrey; }
+  .container-main .media-container {
+    margin-top: 20px; }
+  .container-main .block {
+    border-radius: 5px;
+    border: 1px solid lightgrey;
+    background-color: #e6e6e6;
+    margin-bottom: 20px; }
+    .container-main .block .input-group {
+      width: 90%;
+      margin-left: 20px;
+      margin-bottom: 20px; }
+    .container-main .block .blog1 {
+      margin-left: 20px; }
+    .container-main .block h5 {
+      margin-left: 39px; }
+    .container-main .block .block-in {
+      margin: 20px; }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; }
+  .footer .footer-title {
+    width: 90%;
+    border-top: 1px solid lightgrey; }
+    .footer .footer-title p {
+      margin-top: 50px; }
+
+/*# sourceMappingURL=vasario27.css.map */
